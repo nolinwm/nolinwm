@@ -5,6 +5,8 @@
 
 <p>
   Problem solving is my passion and building software is my favorite avenue to do so. With 1+ years of experience developing iOS apps, I’m seeking my first role as an engineer where I can learn, grow, and make an impact contributing to a team that I’m proud to be a part of.
+  
+  I love connecting with new people, give me a shout at hello@nolinmcfarland.com or on LinkedIn!
 </p>
 
 <div id="badges">
