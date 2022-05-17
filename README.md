@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<p>
+  Problem solving is my passion and building software is my favorite avenue to do so. With 1+ years of experience developing iOS apps, I’m seeking my first role as an engineer where I can learn, grow, and make an impact contributing to a team that I’m proud to be a part of.
+</p>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/nolinmcfarland">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,7 +18,3 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<p>
-  Problem solving is my passion and building software is my favorite avenue to do so. With 1+ years of experience developing iOS apps, I’m seeking my first role as an engineer where I can learn, grow, and make an impact contributing to a team that I’m proud to be a part of.
-</p>
