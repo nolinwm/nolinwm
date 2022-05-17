@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://nolinmcfarland.com">
-    <img src="https://img.shields.io/badge/-MY%20PORTFOLIO-ff69b4" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/-MY%20PORTFOLIO-ff69b4?style=for-the-badge" alt="Website Badge"/>
   </a>
   <a href="https://twitter.com/nolinmcfarland">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
